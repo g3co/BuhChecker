@@ -1,0 +1,7 @@
+.gitignore
+.idea/
+BuhChecker.exe
+BuhChecker.iml
+drebedengi.csv
+output.txt
+sample.csv
